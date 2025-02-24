@@ -6,6 +6,10 @@ Welcome to the Sentiment Analysis project. This repository contains a machine le
 
 The objective of this project is to build a predictive model that determines the sentiment (positive or negative) of a movie review based solely on its textual content. The model is trained on the IMDB movie reviews dataset, which comprises 50,000 reviews labeled as positive or negative.
 
+## Dataset
+
+The IMDB movie reviews dataset used for training and testing is not hosted on GitHub due to its size. You can download it from [this link](https://drive.google.com/file/d/1-Evj1WeUZLBtyTEMm7s9JF6h9Bct9vO_/view?usp=sharing).
+
 ## Key Components
 
 - **Data Preprocessing**: Text cleaning (removing punctuation and stopwords) and tokenization.
